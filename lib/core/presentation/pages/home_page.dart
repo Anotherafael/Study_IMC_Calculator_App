@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:imc_calculator/core/presentation/widgets/response.dart';
-import 'package:imc_calculator/core/presentation/widgets/text_field.dart';
+import '../widgets/response.dart';
+import '../widgets/text_field.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
